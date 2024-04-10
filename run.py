@@ -3,12 +3,6 @@ from app import create_app
 # from app.extensions import *
 
 
-
-
-
-
-
-
 info = 'data from api'
 
 
