@@ -1,6 +1,6 @@
 from flask import Flask
 
-from app.webhook.routes import webhook
+# from app.webhook.routes import webhook
 
 
 # Creating our flask app
@@ -14,6 +14,6 @@ def create_app():
     )
     
     # registering all the blueprints
-    app.register_blueprint(webhook)
+    # app.register_blueprint(webhook)
     
     return app
