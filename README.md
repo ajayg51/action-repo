@@ -1,3 +1,3 @@
 # action-repo
-update readme
+update read
 TechStaX
